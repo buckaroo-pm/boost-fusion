@@ -1,0 +1,37 @@
+targets = [ "//:fusion" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-preprocessor"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-typeof"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-tuple"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+version = "branch=master"
