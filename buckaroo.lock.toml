@@ -66,7 +66,7 @@ revision = "4b9da4628bc69ad0e9b244d3ec885f2eadac95d8"
 
 [lock."github.com/buckaroo-pm/boost-tuple"]
 versions = [ "branch=master" ]
-revision = "5f4b3f572603f796257652c6851af5a98f8a60a3"
+revision = "5ffb0abec6da0d9986690b32d20218769a50086b"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
@@ -74,7 +74,7 @@ revision = "a34caf51f831ffb77d1057c668b5db620863d191"
 
 [lock."github.com/buckaroo-pm/boost-typeof"]
 versions = [ "branch=master" ]
-revision = "18a9fd7819c36e3ff67a744c054cf144f3ca784c"
+revision = "e8cb7bc76c55f02a24f824fecf5cdf0629dc3aa4"
 
 [lock."github.com/buckaroo-pm/boost-utility"]
 versions = [ "branch=master" ]
