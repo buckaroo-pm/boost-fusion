@@ -70,7 +70,7 @@ revision = "5ffb0abec6da0d9986690b32d20218769a50086b"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
-revision = "2146ff039c062639fa99fbd5e1b8b441adb5d5a8"
+revision = "4d0a507c0d1a1011c5a98d57acc9f6b755141e4f"
 
 [lock."github.com/buckaroo-pm/boost-typeof"]
 versions = [ "branch=master" ]
