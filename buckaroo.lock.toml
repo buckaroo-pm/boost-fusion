@@ -1,0 +1,73 @@
+manifest = "788ea35e885929af26902257fd2b36148a139f2cb48addf5ebf5dc6ae0be1ee9"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+target = "//:config"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+target = "//:detail"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+target = "//:mpl"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-preprocessor"
+target = "//:preprocessor"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+target = "//:static_assert"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-tuple"
+target = "//:tuple"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+target = "//:type_traits"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-typeof"
+target = "//:typeof"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+target = "//:utility"
+
+[lock."github.com/buckaroo-pm/boost-config"]
+versions = [ "1.39.0" ]
+revision = "8d2669c973073bf1be4238a318c2784dd0999630"
+
+[lock."github.com/buckaroo-pm/boost-detail"]
+versions = [ "1.39.0" ]
+revision = "478a355bb52452bc27d16e2b68cf6677e09f3c96"
+
+[lock."github.com/buckaroo-pm/boost-mpl"]
+versions = [ "1.39.0" ]
+revision = "2ae6217c88649cc02ab2a5f35b493724c7d9c597"
+
+[lock."github.com/buckaroo-pm/boost-preprocessor"]
+versions = [ "1.39.0" ]
+revision = "87e9eb41400a0eb04cfb81af1be42d1179b09b8b"
+
+[lock."github.com/buckaroo-pm/boost-static_assert"]
+versions = [ "1.39.0" ]
+revision = "aa9b48173569be31a060373000a54287e15422b8"
+
+[lock."github.com/buckaroo-pm/boost-tuple"]
+versions = [ "1.39.0" ]
+revision = "9e0166fb2c24e4689c54cef4cd0f64ca00c8ff30"
+
+[lock."github.com/buckaroo-pm/boost-type_traits"]
+versions = [ "1.39.0" ]
+revision = "a5813a4400771cfafcf9d06f8b9dfddb3119ade8"
+
+[lock."github.com/buckaroo-pm/boost-typeof"]
+versions = [ "1.39.0" ]
+revision = "79accaf7b2dd23eb9ae7de429a7d61884f9a0331"
+
+[lock."github.com/buckaroo-pm/boost-utility"]
+versions = [ "1.39.0" ]
+revision = "ac39e74ef9ca023c9780279df0bf89ca68cc64e9"
